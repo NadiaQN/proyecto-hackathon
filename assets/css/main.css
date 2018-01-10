@@ -100,10 +100,48 @@ a.badge{
 
 
 /*^^^^^^^^^^^^^^DUBRASSKA^^^^^^^^^^^^^^*/
-
-/*comenten su codigo
-coloquen a que seccion estan dando estilos
-y su nombre*/
+/* SECCION REVIEWS *****************************/
+.imgPerfilReiews{
+	width: 70%;
+	border-radius: 50%
+}
+.tdImgReviews{
+	width: 5em
+}
+ul {
+    column-count:2;
+    -moz-column-count:2;
+    -webkit-column-count:2;
+}
+.borderReviews{
+	border: 1px solid #ddd;
+}
+.fa-star{
+	color: #ffcc00
+}
+	
+.btnSendModalReview{
+	margin-bottom: 20px;
+	margin-top: 10px;
+}
+#modalReviews{
+	background-color: rgba(0, 0, 0, 0.6); 
+	color: #fff;
+	border: 2px solid #fff;
+	-webkit-box-shadow: 1px 1px 35px -5px rgba(255,255,255,1);
+-moz-box-shadow: 1px 1px 35px -5px rgba(255,255,255,1);
+box-shadow: 1px 1px 35px -5px rgba(255,255,255,1);
+}
+.starModal{
+	background-color: rgba(0, 0, 0, 0.6); 
+}
+#txtareaReviews{
+	background-color: rgba(0, 0, 0, 0.6); 
+	color: #fff;
+}
+#formModal{
+	padding: 2em;
+}
 
 /*------------PROFILE STYLE------------*/
 .index-content a:hover{
@@ -164,18 +202,6 @@ y su nombre*/
     background-color: #dadada;
     color: rgb(231, 99, 23);
 }
-@media (max-width: 768px) {
-
-    .index-content .col-lg-4 {
-        margin-top: 20px;
-    }
-}
-
-
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700');
-
-@import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great');
-
 #profile {
    font-family: 'Open Sans', sans-serif;
 }
@@ -252,4 +278,5 @@ hr.style-eight:after {
 }
 
 /*----------END PROFILE STYLE----------*/
+
 
