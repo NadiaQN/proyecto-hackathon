@@ -17,7 +17,7 @@
 ![imagen](https://s9.postimg.org/dpj7mbtm7/image.jpg) 
 
 1) ¿De qué trata el producto?
-Es una página web, donde NO solo se ven los trailer de las peliculas del momento sino que se puede hacer un post de cómo te pareció y si la recomiendas, punteando con estrellas.
+Es una página web, donde se puede hacer un post de cómo te pareció y si la recomiendas, punteando con estrellas.
 
 2) ¿Decisión / Validación?
 Llegamos a esta conclusión por medio de entrevistas hechas al público en general, y 7 de cada 10 personas ocupan la web para ver una pelicula, y para decidir cual ver, prestan atención a las opiniones y al trailer.
