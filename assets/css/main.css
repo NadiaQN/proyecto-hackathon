@@ -1,3 +1,46 @@
 /*comenten su codigo
 coloquen a que seccion estan dando estilos
 y su nombre*/
+/* SECCION REVIEWS *****************************/
+.imgPerfilReiews{
+	width: 70%;
+	border-radius: 50%
+}
+.tdImgReviews{
+	width: 5em
+}
+ul {
+    column-count:2;
+    -moz-column-count:2;
+    -webkit-column-count:2;
+}
+.borderReviews{
+	border: 1px solid #ddd;
+}
+.fa-star{
+	color: #ffcc00
+}
+	
+.btnSendModalReview{
+	margin-bottom: 20px;
+	margin-top: 10px;
+}
+#modalReviews{
+	background-color: rgba(0, 0, 0, 0.6); 
+	color: #fff;
+	border: 2px solid #fff;
+	-webkit-box-shadow: 1px 1px 35px -5px rgba(255,255,255,1);
+-moz-box-shadow: 1px 1px 35px -5px rgba(255,255,255,1);
+box-shadow: 1px 1px 35px -5px rgba(255,255,255,1);
+}
+.starModal{
+	background-color: rgba(0, 0, 0, 0.6); 
+}
+#txtareaReviews{
+	background-color: rgba(0, 0, 0, 0.6); 
+	color: #fff;
+}
+#formModal{
+	padding: 2em;
+}
+/**********************************************************/
