@@ -10,35 +10,29 @@
 3) ¿Organización?
 Dailys y retrospectiva (cada día)
 	Haciendo pausas para saber como van cada compañera
-![imagen]
-(https://s9.postimg.org/8obtl1egv/Whats_App_Image_2018-01-10_at_16.29.32.jpg)
+![imagen](https://s9.postimg.org/8obtl1egv/Whats_App_Image_2018-01-10_at_16.29.32.jpg)
 
 4) ¿Avance?
 
 Maquetado, Transiciones de pantallas, conexión a API y Firebase, trabajando en la funcionalidad.
 
-![imagen1]
-(https://s9.postimg.org/579rhuxcf/image.jpg) 
+![imagen1](https://s9.postimg.org/579rhuxcf/image.jpg) 
 ### Página principal (up).
 
-![imagen2]
-(https://s9.postimg.org/cn913qdcv/image.jpg) 
+![imagen2](https://s9.postimg.org/cn913qdcv/image.jpg) 
 ### Página principal (down).
 
-![imagen3]
-(https://s9.postimg.org/4uidbruj3/image.jpg) 
+![imagen3](https://s9.postimg.org/4uidbruj3/image.jpg) 
 ### Profile  (up).
 
 ![imagen4]
 (https://s9.postimg.org/nzlmlk427/image.jpg) 
 ### Profile (Down).
 
-![imagen5]
-(https://s9.postimg.org/ocd0rqu1r/image.jpg)
+![imagen5](https://s9.postimg.org/ocd0rqu1r/image.jpg)
 ### Reviews (up).
 
-![imagen6]
-(https://s9.postimg.org/ynpdk3o8f/image.jpg) 
+![imagen6](https://s9.postimg.org/ynpdk3o8f/image.jpg) 
 ### Reviews - Modal para hacer post (up).
 
 ![imagen]
