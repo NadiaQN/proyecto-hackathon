@@ -32,6 +32,8 @@ $(document).ready(function() {
                     s: inputSearch
                 }
             })
+        } else {
+            alert('Ingrese una búsqueda mas específica')
         }
     }
     $("#inputSearchIndex").keypress(function(e) {
