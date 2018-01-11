@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+
+</head>
+
+<div>
+    <div id="reviewsMov">
+        <div class="row page-header">
+            <div class="col-md-4 col-xs-12">
+                <div class="thumbnail">
+                    <img id="posterImg" src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2MzI1MTg3OF5BMl5BanBnXkFtZTgwNTU3NDA2MTI@._V1_SX300.jpg" alt="Imagen foto" />
+                </div>
+            </div>
+            <div class="col-md-6 col-xs-12">
+                <div>
+                    <label id="title" for="">Título: </label>
+                </div>
+                <div>
+                    <label id="year" for="">Año: </label>
+                </div>
+                <div>
+                    <label id="genre" for="">Género: </label>
+                </div>
+                <div>
+                    <label id="country" for="">País: </label>
+                </div>
+                <div>
+                    <label id="actors" for="">Actores: </label>
+                </div>
+                <div>
+                    <label id="writer" for="">Escritor: </label>
+                </div>
+                <div>
+                    <label id="director" for="">Director: </label>
+                </div>
+                <div>
+                    <label id="language" for="">Idioma: </label>
+                </div>
+                <div>
+                    <label id="plot" for="">Información: </label>
+                </div>
+            </div>
+            <div class="col-md-2 col-xs-12">
+                <button type="button" class="btn btn-warning trailer">Trailer</button>
+                <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#modalReview">Escribir reviews</button>
+            </div>
+        </div>
+        <!-- Modal de Reviews -->
+        <div id="modalReview" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+                <div class="modal-content" id="modalReviews">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h4 class="modal-title">Dinos tu opinión y califica la película</h4>
+                    </div>
+                    <div class="modal-body">
+                        <form id="formModal">
+                            <textarea id="txtareaReviews" class="form-control" placeholder="Cuentanos tu opinión..."></textarea>
+                            <button type="button" class="btn btn-warning btnSendModalReview">Enviar opinión</button>
+                        </form>
+                        <div class="starModal thumbnail">
+                            <label for="">Califica la película</label>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</html>
