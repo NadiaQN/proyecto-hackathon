@@ -1,3 +1,77 @@
+/*comenten su codigo coloquen a que seccion estan dando estilos y su nombre
+
+		-->PALETA DE COLORES<--
+- AMARILLO CLARO = #F3D352
+- AMARILLO = #F6D238
+- NARANJA = #F38016
+- LADRILLO = #F34906
+- NEGRO = #0E1526
+- degradado o gradiante = #F3D352, #F6D238, #F38016, #F34906*/
+
+
+/*==============DUBRASSKA==============*/
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Atomic Age', cursive;
+}
+/*--------------vv-navbar_inicio-vv------------------------*/
+.bar{
+	background-color: #0E1526;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	line-height: 40px;
+	z-index: 10;
+	border-radius: 0;
+	border:0;
+	position: fixed;
+}
+.navbar {
+  margin-bottom:0 !important;
+}
+.navbar-brand, .register, .log-in, .caret{
+	color:#F34906;
+}
+a{
+	color:#F38016;
+}
+.find{
+	border-radius: 10px 10px 10px 10px;
+    padding-top:2%;
+    padding-left: 8%;
+    height: 20%;
+}
+
+/*--------------^^-navbar_cierre-^^------------------------*/
+
+/*--------------vv-Carrusel_inicio-vv------------------------*/
+#myCarousel{
+	height: 80%;
+}
+/*--------------^^-Cierre_Carrusel-^^------------------------*/
+.rol{
+	border-radius: 50px 50px 50px 50px;
+	display: inline-block;
+	padding: 0;
+	margin-left: 12%;
+}
+.user{
+	width: 20%;
+	height: 20%;
+	display: inline-block;
+}
+nav li a {
+	position: relative;
+	display: inline-block;
+	padding: 0;
+}
+a.badge{
+	display: inline-block;
+	width: 10%;
+}
+/*^^^^^^^^^^^^^^DUBRASSKA^^^^^^^^^^^^^^*/
+
 /*comenten su codigo
 coloquen a que seccion estan dando estilos
 y su nombre*/
@@ -80,3 +154,4 @@ hr.style-eight:after {
 }
 
 /*----------END PROFILE STYLE----------*/
+
