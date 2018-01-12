@@ -46,8 +46,11 @@
             </div>
             <div class="col-md-2 col-xs-12">
                 <button type="button" class="btn btn-warning trailer">Trailer</button>
-                <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#modalReview">Escribir reviews</button>
+                <button id="writeReview" type="button" class="btn btn-danger disabled" data-toggle="modal" data-target="#modalReview">Escribir reviews</button>
             </div>
+        </div>
+        <div id="contentReviews">
+
         </div>
         <!-- Modal de Reviews -->
         <div id="modalReview" class="modal fade" role="dialog">
@@ -60,7 +63,7 @@
                     <div class="modal-body">
                         <form id="formModal">
                             <textarea id="txtareaReviews" class="form-control" placeholder="Cuentanos tu opinión..."></textarea>
-                            <button type="button" class="btn btn-warning btnSendModalReview">Enviar opinión</button>
+                            <button id="btnSendReview" type="button" data-dismiss="modal" class="btn btn-warning btnSendModalReview">Enviar opinión</button>
                         </form>
                         <div class="starModal thumbnail">
                             <label for="">Califica la película</label>
