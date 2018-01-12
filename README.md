@@ -1,36 +1,48 @@
-# MOVIE TALK
-### Detalles generales
-![imagen](https://s9.postimg.org/8obtl1egv/Whats_App_Image_2018-01-10_at_16.29.32.jpg)
+# MOVIE TALK ![logo](https://s9.postimg.org/a7d6q2rv3/image.jpg)
 
-![imagen](https://s9.postimg.org/579rhuxcf/image.jpg) 
+### Objetivo Específico
 
-![imagen](https://s9.postimg.org/cn913qdcv/image.jpg) 
+#### El objetivo de la aplicación es tener una crítica subjetiva de las películas, por medio de reviews que realiza el público que ve una película, sin el ánimo de ofender a la crítica profesional del cine, a pesar de que el público en ocasiones discrepa con comentadores, es por eso que quien quiera dar su punto de vista puede ingresar en la página dando a conocer su opnión para que cineaficionados o entendidos del cine puedan obtener un feedback diferente.
 
-![imagen](https://s9.postimg.org/4uidbruj3/image.jpg) 
+##### 1) ¿De qué trata el producto?
+###### Es página web, que busca películas que se quieran ver o saber como fue recibida, mediante opiniones que deja el público general en la aplicación, de acuerdo a eso las personas se pueden interesar o pueden recomendarla para verla.
 
-![imagen](https://s9.postimg.org/nzlmlk427/image.jpg) 
+##### 2) ¿Decisión / Validación?
+###### A través de entrevistas que se realizaron a diez personas dentro de Laboratoria, llegamos a una conclusión de que siete de ellas ocupan la web para ver películas y para decidir que película ver prefieren navegar buscando criticas u opiniones o ven el trailer.
 
-![imagen](https://s9.postimg.org/n2jsqoaan/image.jpg)
+###### Imágen de entrevistas
+![entrevistas](https://s9.postimg.org/azfuoovvz/image.jpg)
 
-![imagen](https://s9.postimg.org/ynpdk3o8f/image.jpg) 
+##### 3) ¿Organización?
+###### Cada día se realizó un daily y al final de la hora se realiza una retrospectiva, se realizan commit diarios 
 
-![imagen](https://s9.postimg.org/dpj7mbtm7/image.jpg) 
+Nombre |Tarea
+------------ | -------------
+Bianca  | Sketch, uso de API, Maquetado página de perfil, función filtrar, función reviews.
+Nadia | Sketch, inicio repositorio, Maquetado página de películas, reestructuración página reviews.
+Dubrassca | Sketch, UX, Maquetado página de principal, estructura y diseño.
+Evelyn | Sketch, uso de API, Maquetado página de reviews, autenticación usuario.
 
-1) ¿De qué trata el producto?
-Es una página web, donde se puede hacer un post de cómo te pareció y si la recomiendas, punteando con estrellas.
+###### Imágen organización
+![organización](https://s9.postimg.org/trrpshxhr/image.jpg)
 
-2) ¿Decisión / Validación?
-Llegamos a esta conclusión por medio de entrevistas hechas al público en general, y 7 de cada 10 personas ocupan la web para ver una pelicula, y para decidir cual ver, prestan atención a las opiniones y al trailer.
+##### 4) ¿Avance?
+###### Maquetado, Transiciones de pantallas, conexión a API y Firebase, trabajando en la funcionalidad.
 
-3) ¿Organización?
-Dailys y retrospectiva (cada día); haciendo pausas para saber como van cada compañera
+Nombre | Descripción
+------------ | -------------
+Maquetado | Se realizó con Bootstrap
+Transiciones de pantalla | realizado con JQuery
+Conexión a API (www.omdbapi.com) | realizado con JQuery con método Ajax
+Conexión Firebase | realizado con JQuery y metodos de Firebase
+
+###### Imágenes del maquetado
+![sketch primero](https://s9.postimg.org/a8n4j3gpr/image.jpg)
+
+![sketch final](https://s9.postimg.org/e50gf7rgf/image.jpg)
 
 
-4) ¿Avance?
-Maquetado, Transiciones de pantallas, conexión a API y Firebase, trabajando en la funcionalidad.
+##### 5) ¿viernes?
+###### El producto funcional y operativo en tiempo real.  
 
-
-5) ¿viernes?
-El producto funcional y operativo en tiempo real.  
-
-
+ 
