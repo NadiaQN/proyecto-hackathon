@@ -45,4 +45,4 @@ Conexión Firebase | realizado con JQuery y metodos de Firebase
 ##### 5) ¿viernes?
 ###### El producto funcional y operativo en tiempo real.  
 
-
+ 
