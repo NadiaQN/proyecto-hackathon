@@ -1,20 +1,7 @@
 # MOVIE TALK
-### Detalles generales
-![imagen](https://s9.postimg.org/8obtl1egv/Whats_App_Image_2018-01-10_at_16.29.32.jpg)
+### Objetivo Específico
 
-![imagen](https://s9.postimg.org/579rhuxcf/image.jpg) 
-
-![imagen](https://s9.postimg.org/cn913qdcv/image.jpg) 
-
-![imagen](https://s9.postimg.org/4uidbruj3/image.jpg) 
-
-![imagen](https://s9.postimg.org/nzlmlk427/image.jpg) 
-
-![imagen](https://s9.postimg.org/n2jsqoaan/image.jpg)
-
-![imagen](https://s9.postimg.org/ynpdk3o8f/image.jpg) 
-
-![imagen](https://s9.postimg.org/dpj7mbtm7/image.jpg) 
+El objetivo de la aplicación es tener una critica subjetiva de las películas, por medio de reviews que realiza el público que ve una película, sin el ánimo de ofender a la crítica profesional del cine, a pesar de que el público en ocasiones discrepa con comentadores, es por eso que quien quiera dar su punto de vista puede ingresar en la página dando a conocer su opnión para que cineaficionados o entendidos del cine puedan obtener un feedback diferente.
 
 1) ¿De qué trata el producto?
 Es una página web, donde se puede hacer un post de cómo te pareció y si la recomiendas, punteando con estrellas.
