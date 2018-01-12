@@ -272,8 +272,13 @@ $(document).ready(function() {
     }
     // HTML para contener los reviews
     function addReview(key, data) {
-        $('#contentReviews').append('<div id="' + key +
-            '" class="col-md-6 col-xs-12"><p data-iduser="' + data.idUser + '"class="linkProfileUser" >' + data.comment + '</p></div>')
+        /* $('#contentReviews').append('<div id="' + key +
+            '" class="col-md-6 col-xs-12"><p data-iduser="' + data.idUser + '"class="linkProfileUser" >' + data.comment + '</p></div>') */
+
+        $('#contentReviews').append('<div class="col-md-5 color-reviews" id="' + key +
+            '"><div class="user-reviews"><div class="col-md-4 user_"><img src="assets/img/user.png"/>' +
+            '<a class="user-name linkProfileUser" data-iduser="' + data.idUser + '">Nombre Usuario</a></div>' +
+            '<div class="col-md-8 reviews"><p">' + data.comment + '</p></div></div></div>')
         console.log("key: " + key + " data: " + data);
         $('.linkProfileUser').click(function() {
             var dataIdUser = $(this).data('iduser');
