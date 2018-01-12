@@ -1,7 +1,7 @@
 # MOVIE TALK
 ### Objetivo Específico
 
-#### El objetivo de la aplicación es tener una critica subjetiva de las películas, por medio de reviews que realiza el público que ve una película, sin el ánimo de ofender a la crítica profesional del cine, a pesar de que el público en ocasiones discrepa con comentadores, es por eso que quien quiera dar su punto de vista puede ingresar en la página dando a conocer su opnión para que cineaficionados o entendidos del cine puedan obtener un feedback diferente.
+#### El objetivo de la aplicación es tener una crítica subjetiva de las películas, por medio de reviews que realiza el público que ve una película, sin el ánimo de ofender a la crítica profesional del cine, a pesar de que el público en ocasiones discrepa con comentadores, es por eso que quien quiera dar su punto de vista puede ingresar en la página dando a conocer su opnión para que cineaficionados o entendidos del cine puedan obtener un feedback diferente.
 
 ##### 1) ¿De qué trata el producto?
 ###### Es página web, que busca películas que se quieran ver o saber como fue recibida, mediante opiniones que deja el público general en la aplicación, de acuerdo a eso la personas se pueden interesar o pueden ser recomendadas para verla.
